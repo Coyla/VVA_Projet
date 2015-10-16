@@ -1,0 +1,579 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"pub",
+				"pub	PHP: public class method declaration"
+			],
+			[
+				"class",
+				"class	class …"
+			],
+			[
+				"php",
+				"php	PHP (HTML): <?php ... ?>"
+			],
+			[
+				"session",
+				"session_id"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"ti",
+				"this"
+			],
+			[
+				"echo",
+				"echo	echo \"…\""
+			],
+			[
+				"titre",
+				"titre_page"
+			],
+			[
+				"shit",
+				"shift"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"function",
+				"create_function"
+			],
+			[
+				"ext",
+				"extends"
+			],
+			[
+				"inde_p",
+				"index_page"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"project",
+				"project_two_title"
+			],
+			[
+				"current",
+				"current_options"
+			],
+			[
+				"service",
+				"service_description"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"connexion",
+				"connexion"
+			],
+			[
+				"load",
+				"loadMovies"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"ser",
+				"Service"
+			],
+			[
+				"ajout",
+				"ajouter_fiche"
+			],
+			[
+				"mois",
+				"mois_courant"
+			],
+			[
+				"dat",
+				"data_vis"
+			],
+			[
+				"typ",
+				"typ_vis"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"creat",
+				"CreateTab"
+			],
+			[
+				"op",
+				"optgroup	Tag"
+			],
+			[
+				"o",
+				"optgroup	Tag"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"couleu",
+				"couleur_5"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"ID",
+				"id_vis"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"pre",
+				"prenom"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"mysq",
+				"mysql_connect"
+			],
+			[
+				"arra",
+				"array	$… = array (…)"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"frai",
+				"frais-hf"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"q",
+				"qte2"
+			],
+			[
+				"qte",
+				"qte"
+			],
+			[
+				"qt",
+				"qte1"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"com",
+				"compteur"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
+				"but",
+				"bouton"
+			],
+			[
+				"th",
+				"thead	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 324.0,
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"package control co",
+				"Package Control: Discover Packages"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"php ",
+				"Snippet: <?php else: ?>"
+			],
+			[
+				"php sn",
+				"Snippet: <?php if (…) ?> … <?php else ?> … <?php endif ?>"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			]
+		],
+		"width": 455.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/juancoyla/Dropbox/Web/www/codeIgniter/application/controllers/Pages.php",
+		"/Users/juancoyla/Library/Application Support/Sublime Text 2/Packages/GotoDocumentation/Default (OSX).sublime-keymap",
+		"/Users/juancoyla/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/juancoyla/Documents/test.php",
+		"/Users/juancoyla/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/juancoyla/Dropbox/Web/www/codeIgniter/application/views/forum/vue.php",
+		"/Users/juancoyla/Dropbox/Web/www/codeIgniter/application/controllers/forum.php",
+		"/Users/juancoyla/Dropbox/Web/www/codeIgniter/application/helpers/assets_helper.php",
+		"/Users/juancoyla/Dropbox/Web/www/codeIgniter/application/views/vue.php",
+		"/Users/juancoyla/Dropbox/Web/www/codeIgniter/application/views/forum.php",
+		"/Users/juancoyla/Dropbox/Web/www/codeIgniter/application/controllers/untitled",
+		"/Users/juancoyla/Dropbox/Web/www/codeIgniter/application/config/config.php",
+		"/Users/juancoyla/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/juancoyla/Dropbox/Web/www/codeIgniter/application/controllers/Welcome.php",
+		"/Users/juancoyla/Dropbox/Web/www/codeIgniter/application/controllers/index.html",
+		"/Users/juancoyla/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/juancoyla/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/juancoyla/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/juancoyla/Library/Application Support/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/juancoyla/Dropbox/Web/www/codeIgniter/.htaccess",
+		"/Users/juancoyla/Dropbox/stage_docteur/wp-content/themes/Tesseract/css/responsive.css",
+		"/Users/juancoyla/Dropbox/wordpress/wp-content/themes/test/style.css",
+		"/Users/juancoyla/Dropbox/wordpress/wp-content/themes/theme_test/style.css",
+		"/Users/juancoyla/Dropbox/wordpress/wp-content/themes/theme_test/index.php",
+		"/Users/juancoyla/Dropbox/wordpress/wp-content/themes/theme_test/functions.php",
+		"/Users/juancoyla/Dropbox/wordpress/wp-content/themes/test/index.php",
+		"/Users/juancoyla/Dropbox/wordpress/wp-content/themes/test/functions.php",
+		"/Users/juancoyla/Dropbox/wordpress/wp-content/themes/theme_test/test.css",
+		"/Users/juancoyla/Dropbox/wordpress/wp-content/themes/theme_test/untitled",
+		"/Users/juancoyla/Dropbox/bacProjet/main.py",
+		"/Users/juancoyla/cine_angular/app/scripts/controllers/popular.js",
+		"/Users/juancoyla/cine_angular/app/scripts/services/serviceajax.js",
+		"/Users/juancoyla/TutoAngular/package.json",
+		"/Users/juancoyla/cine_angular/app/scripts/controllers/search.js",
+		"/Users/juancoyla/cine_angular/app/scripts/app.js",
+		"/Users/juancoyla/cine_angular/app/scripts/controllers/header.js",
+		"/Users/juancoyla/Dropbox/Projet_web/GestionDeDonnes/_connexion",
+		"/Users/juancoyla/Dropbox/Projet_web/GestionDeDonnes/_Functions",
+		"/Users/juancoyla/Dropbox/Projet_web/html/fiche_missed.php",
+		"/Users/juancoyla/Dropbox/Projet_web/html/ajouter_fiche.php",
+		"/Users/juancoyla/Dropbox/codeAppliFestival_pdo/_fin.inc.php",
+		"/Users/juancoyla/Dropbox/codeAppliFestival_pdo/_gestionErreurs.inc.php",
+		"/Users/juancoyla/Dropbox/codeAppliFestival_pdo/_onglets.inc.php",
+		"/Users/juancoyla/Dropbox/codeAppliFestival_pdo/cOffreHebergement.php",
+		"/Users/juancoyla/Dropbox/codeAppliFestival_pdo/cAttributionChambres.php",
+		"/Users/juancoyla/Dropbox/codeAppliFestival_pdo/cGestionEtablissements.php",
+		"/Users/juancoyla/Documents/festival/codeAppliFestival_pdo/cGestionEtablissements.php",
+		"/Users/juancoyla/Dropbox/Projet_web/xajax_core/xajax.inc.php",
+		"/Users/juancoyla/Dropbox/Projet_web/html/connexion_gsb.php",
+		"/Users/juancoyla/Dropbox/Mastermind/php/functioncalling.php",
+		"/Users/juancoyla/Dropbox/Projet_web/html/visiteur.php",
+		"/Users/juancoyla/Dropbox/Projet_web/css/connexion.css",
+		"/Users/juancoyla/Dropbox/BTS/SI6 Dev Applications/Mastermind/mastermind.php",
+		"/Users/juancoyla/Dropbox/Projet_web/html/entete.php",
+		"/Users/juancoyla/Dropbox/Projet_web/html/connexion_bdd.php",
+		"/Users/juancoyla/Dropbox/Projet_web/html/connexion.php",
+		"/Users/juancoyla/Dropbox/BTS/GSB/Requete",
+		"/Users/juancoyla/Dropbox/Projet_web/html/visiteur_missed.php",
+		"/Users/juancoyla/Library/Application Support/Sublime Text 2/Packages/User/PHP.sublime-settings",
+		"/Users/juancoyla/Dropbox/Projet_web/html/visiteur.html",
+		"/Users/juancoyla/Dropbox/Projet_web/html/compta.php",
+		"/Users/juancoyla/Dropbox/GSB.csv",
+		"/Users/juancoyla/Dropbox/GSB.xml",
+		"/Users/juancoyla/Dropbox/type_carb.SQL",
+		"/Users/juancoyla/Dropbox/Type_vehi.SQL",
+		"/Users/juancoyla/Dropbox/type_visiteur.SQL",
+		"/Users/juancoyla/Dropbox/visiteur.sql",
+		"/Users/juancoyla/Dropbox/Projet_web/dist/css/bootstrap.css",
+		"/Users/juancoyla/Dropbox/Projet_web/html/test.php",
+		"/Users/juancoyla/Dropbox/Web/html/connexion.php",
+		"/Users/juancoyla/Dropbox/Web/html/connexion_bdd.php",
+		"/Users/juancoyla/Dropbox/Web/html/testcon.php",
+		"/Users/juancoyla/Dropbox/Web/librairie/librairie_connexion.php",
+		"/Users/juancoyla/Dropbox/Web/html/connexion_gsb.php",
+		"/Users/juancoyla/Dropbox/Web/html/entete.php",
+		"/Users/juancoyla/Dropbox/Web/html/visiteur.php",
+		"/Users/juancoyla/Dropbox/Web/librairie/connexion_verif.php",
+		"/Users/juancoyla/Dropbox/Web/librairie/connexion_mysql.php",
+		"/Users/juancoyla/Dropbox/Web/html/connexion_mysql.php",
+		"/Users/juancoyla/Dropbox/Web/html/connexion_verif.php",
+		"/Users/juancoyla/Dropbox/Web/css/connexion.css",
+		"/Users/juancoyla/Dropbox/Web/html/test.php",
+		"/Users/juancoyla/Library/Application Support/Sublime Text 2/Packages/User/Plain text.sublime-settings",
+		"/Users/juancoyla/Dropbox/Web/Web2/html/connexion1.php",
+		"/Users/juancoyla/Dropbox/Web/Web2/html/pdo.php",
+		"/Users/juancoyla/Dropbox/Web/Web2/html/connexion.html",
+		"/Users/juancoyla/Dropbox/Web/html/visiteur-consulter.html",
+		"/Users/juancoyla/Dropbox/Web/html/connexion.html",
+		"/Users/juancoyla/Dropbox/Web/html/login.html",
+		"/Users/juancoyla/Dropbox/Web/dist/css/bootstrap.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"printer_handle",
+			"auto",
+			"load",
+			"tab",
+			"tabulation",
+			"tab",
+			"url",
+			"page",
+			"title",
+			"site-h",
+			"site",
+			"mas",
+			"banner",
+			"site-b",
+			"site",
+			"title",
+			"tittle",
+			"branding",
+			"bran",
+			"container",
+			"5",
+			"$s",
+			"s",
+			"theme",
+			"create",
+			"creat",
+			"height",
+			"margin",
+			"height",
+			"servi",
+			"col-md",
+			"row",
+			"service",
+			"nav",
+			"cwd",
+			"cw",
+			"ng",
+			"cp",
+			"est",
+			"estUn",
+			"est",
+			"demander",
+			"dem",
+			"config",
+			"block",
+			"shadow",
+			"ajouter",
+			"          \n",
+			"btn",
+			"ajouter",
+			"button",
+			"group-btn",
+			"btn-block"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"vue.php",
+				"/Users/juancoyla/Dropbox/Web/www/codeIgniter/application/views/forum/vue.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true
+}
